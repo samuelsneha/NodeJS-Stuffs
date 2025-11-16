@@ -1,0 +1,21 @@
+{
+  "name": "node-js---bh-udemy-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "fawn": "^2.1.5",
+    "helmet": "^8.1.0",
+    "joi": "^18.0.1",
+    "mongoose": "^8.19.0",
+    "morgan": "^1.10.1",
+    "nodemon": "^3.1.10",
+    "pug": "^3.0.3"
+  }
+}
